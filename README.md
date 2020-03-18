@@ -1,6 +1,6 @@
 # puzzle_detection
 [REPORT HERE](https://yadi.sk/i/ccAbC0qE8YAPjg)  
-[JUPYTER NOTEBOOK](https://github.com/valerapon/puzzle_detection/blob/master/code.ipynb)
+[JUPYTER NOTEBOOK](https://github.com/valerapon/puzzle_detection/blob/master/code.ipynb)  
 How to run:  
 ```python main.py --image <image_path>```  
 Example:  
