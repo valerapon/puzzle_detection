@@ -1,5 +1,5 @@
 # puzzle_detection
-[REPORT](https://yadi.sk/i/ccAbC0qE8YAPjg)  
+[REPORT HERE](https://yadi.sk/i/ccAbC0qE8YAPjg)  
 How to run:  
 ```python main.py --image <image_path>```  
 Example:  
